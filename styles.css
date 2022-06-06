@@ -1,0 +1,37 @@
+h1 span {
+    background-color: rgba(0, 0, 0, 0.876);
+    color:rgba(232, 232, 232, 0.945);
+    font-size: 50px;
+    text-align; center
+}
+
+html {background-color: rgb(184, 184, 184)}
+
+img{
+    height:auto;
+    width: 500px;
+    position:relative;
+    right: -500px;
+    top: -120px;
+}
+a {
+    font-size: 30px;
+}
+
+a:hover {
+    background-color: black;
+    font-weight: bold;
+}
+
+    .pan {
+    color:rgb(252, 3, 190);
+}
+
+.fren {
+    color:rgb(252, 186, 3);
+}
+
+.chick {
+    color:rgb(252, 36, 3);
+}
+

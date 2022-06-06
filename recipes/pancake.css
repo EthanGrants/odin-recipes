@@ -1,0 +1,29 @@
+h3 {
+    color:darkred;
+    font-weight:500;
+}
+
+ul span {
+    color:rgb(127, 186, 244);
+    background-color:rgb(0, 0, 0);
+    font-weight:bold;
+    display:inline-block;
+}
+
+img {
+    border: 10px solid rgb(255, 255, 255);
+  }
+
+.steps {
+    font-family:monospace;
+    color: red;
+    font-size: 50px;
+}
+
+html {background-color: rgb(184, 184, 184)}
+
+ol {
+   font-family:fantasy;
+   background-image: url(../images/elon.jpg);
+   background-size: 1000px 200px;
+}
